@@ -17,6 +17,7 @@ var History = (props) => {
             <h4 style={{color: 'blue'}}> lang: {description.lang}</h4>
             <h4 style={{color: 'magenta'}}> category1: {description.category1}</h4>
             <h4 style={{color: 'red'}}> category2: {description.category2}</h4>
+            <button type="button">Click Me!</button>
           </StyledDiv>
         );
       })}

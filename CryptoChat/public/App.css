@@ -1,0 +1,23 @@
+input {
+  text-align: center;
+}
+#pagination {
+  text-align: center;
+}
+.newPage {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+li {
+padding: 5px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.description {
+  display: flex;
+}
